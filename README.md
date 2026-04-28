@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Ihsan Ramadhan
+# 👋 Hello, I'm Hakim
 
 ### 💻 System Support & Web Developer
 
-🚀 Always building, learning, and improving
+🚀 Always building and exploring new things
 
 ---
 
@@ -42,7 +42,7 @@ const ihsan = {
 ### 🌐 Frontend
 
 * HTML, CSS, JavaScript
-* React (learning & improving)
+* React (learning)
 
 ### ⚙️ Backend
 
@@ -81,24 +81,12 @@ const ihsan = {
 
 ---
 
-## 🎯 Goals
+## 🔗 Connect With Me
 
-* 🚀 Build scalable SaaS products
-* 🧠 Deepen backend & system architecture skills
-* 🔐 Improve cybersecurity knowledge
-* 🌍 Contribute to open source
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: (isi link kamu)
-* 📧 Email: (isi email kamu)
+* 💼 LinkedIn: https://www.linkedin.com/in/irnhakim/
 
 ---
 
 ## ⚡ Fun Fact
 
-> I enjoy building tools that actually solve real problems — even small ones.
-
----
+> I like building useful tools that solve real problems.
