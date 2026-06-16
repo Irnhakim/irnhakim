@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ihsan Ramadhan
+# 👋 Hello, I'm Hakim
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Support+%26+Web+Developer" />
@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 ```ts id="pro9x1"
-const ihsan = {
+const Hakim = {
   role: ["System Support", "Web Developer", "Problem Solver"],
   location: "Indonesia",
   currentFocus: [
