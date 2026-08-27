@@ -1,0 +1,44 @@
+[
+  {
+    "name": "nimestream",
+    "repo": "Irnhakim/nimestream",
+    "logo": "",
+    "description": "Platform streaming anime subtitle Indonesia berbasis Next.js dengan tampilan dark mode premium.",
+    "tags": ["NextJS", "Anime", "Streaming"]
+  },
+  {
+    "name": "Kuroyomi",
+    "repo": "Irnhakim/Kuroyomi",
+    "logo": "",
+    "description": "A lightweight, responsive, and retro-themed web client for manga readers (Suwayomi-Server UI).",
+    "tags": ["Java", "Manga", "Suwayomi"]
+  },
+  {
+    "name": "Telegram Drive Web",
+    "repo": "Irnhakim/Telegram-Drive-Web",
+    "logo": "",
+    "description": "Turn your Telegram account into an unlimited, secure cloud storage drive.",
+    "tags": ["React", "TypeScript", "NodeJS"]
+  },
+  {
+    "name": "VibeShift",
+    "repo": "Irnhakim/VibeShift",
+    "logo": "",
+    "description": "Chrome/Brave extension to apply real-time audio effects on YouTube, Spotify, and more.",
+    "tags": ["Extension", "Audio-API", "JavaScript"]
+  },
+  {
+    "name": "ghost-block",
+    "repo": "Irnhakim/ghost-block",
+    "logo": "",
+    "description": "Silent, invisible, and undetectable Ad Blocker Chrome Extension.",
+    "tags": ["Ad-Blocker", "Extension", "JavaScript"]
+  },
+  {
+    "name": "Guardian Admin Server",
+    "repo": "Irnhakim/Guardian-Admin-Server",
+    "logo": "",
+    "description": "Backend API server and parent control panel for Guardian Parental Control System.",
+    "tags": ["NestJS", "NextJS", "TypeScript"]
+  }
+]
