@@ -36,9 +36,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-dark.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-light.svg?v=1" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-light.svg?v=1" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-light.svg?v=2" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-light.svg?v=2" />
 </picture>
 
 </div>
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/projects/projects.svg?v=1" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/projects/projects.svg?v=2" alt="Projects" />
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
