@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/main/light.svg">
-  <img alt="Hakim" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Hakim" src="light.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -36,9 +36,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-light.svg?v=1" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/output/snake-light.svg?v=1" />
 </picture>
 
 </div>
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/projects/projects.svg" alt="Projects" />
+<img width="100%" src="https://raw.githubusercontent.com/Irnhakim/irnhakim/projects/projects.svg?v=1" alt="Projects" />
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
