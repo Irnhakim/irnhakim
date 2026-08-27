@@ -2,14 +2,14 @@
   {
     "name": "nimestream",
     "repo": "Irnhakim/nimestream",
-    "logo": "",
+    "logo": "nimestream.svg",
     "description": "Platform streaming anime subtitle Indonesia berbasis Next.js dengan tampilan dark mode premium.",
     "tags": ["NextJS", "Anime", "Streaming"]
   },
   {
     "name": "Kuroyomi",
     "repo": "Irnhakim/Kuroyomi",
-    "logo": "",
+    "logo": "kuroyomi.png",
     "description": "A lightweight, responsive, and retro-themed web client for manga readers (Suwayomi-Server UI).",
     "tags": ["Java", "Manga", "Suwayomi"]
   },
@@ -23,14 +23,14 @@
   {
     "name": "VibeShift",
     "repo": "Irnhakim/VibeShift",
-    "logo": "",
+    "logo": "vibeshift.png",
     "description": "Chrome/Brave extension to apply real-time audio effects on YouTube, Spotify, and more.",
     "tags": ["Extension", "Audio-API", "JavaScript"]
   },
   {
     "name": "ghost-block",
     "repo": "Irnhakim/ghost-block",
-    "logo": "",
+    "logo": "ghostblock.png",
     "description": "Silent, invisible, and undetectable Ad Blocker Chrome Extension.",
     "tags": ["Ad-Blocker", "Extension", "JavaScript"]
   },
